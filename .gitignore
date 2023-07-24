@@ -9,3 +9,15 @@ typechain-types
 cache
 artifacts
 
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+out/
+
